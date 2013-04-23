@@ -1,0 +1,11 @@
+This is a fork I made off the old SuperJoust code, refitted to use SDL, in 2002. 
+
+The collision detection is vastly superior than the DOS original and it can easily be compiled under Linux. 
+
+I put this up on Sourceforge.net (as superjoust-0.11, since openjoust had already been taken) and it has sat there for 11 years. I don't think it's seen much use ever since, although it would be easy to turn it into a more functional Joust game.
+
+Most of the graphics have been converted to .BMP but for some reason not all of them worked. New backgrounds, lava, etc. need to be created. It might be almost time for a SDLJoust 0.12. 
+
+-Ben Chadwick
+4/23/2013
+

@@ -1,0 +1,35 @@
+bgcolor 30 0 0
+#background images/CURLYBAK.bmp
+pancolor 240 120 55
+panel images/LAVAPANEL.bmp
+lava
+player 80 60
+player 240 60
+player 400 60
+player 560 60
+platform
+pos 40 70 16
+end
+platform
+pos 40 40 5
+vertical
+end
+platform
+pos 40 168 16
+end
+platform
+pos 200 40 5
+vertical
+end
+platform
+pos 360 40 5 
+vertical
+end
+platform
+pos 520 40 5
+vertical
+end
+platform
+pos 600 40 5
+vertical
+end
